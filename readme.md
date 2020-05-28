@@ -42,6 +42,8 @@ Dichas convenciones van desde cómo se escribe el código hasta el formato que d
 
 ## Iteraciones ##
 
+Es importante que termines la construcción de tu propia base, puesto que se valora enormemente en muchas empresas, así que termínala durante esta semana. Estas herramientas te van a acompañar durante todo el curso y es importante que te sepas manejar con ellas.
+
 1. Crearemos una plantilla en [Github][0] que utilizaremos en nuestro proyecto y ejercicios durante esta semana y en adelante. Partiremos de la anterior plantilla de [HTML5][1].
 
 2. Instala [Commitlint][1], opcionalmente [Commitizen][2], para controlar los mensajes que se escriben en los commits.
